@@ -1,0 +1,13 @@
+html, body, div#teste {
+  height: 100%;
+}
+#teste{
+    width: 100%;
+    background-image: url("imagej.png");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+* {
+  margin: 0;
+}
+
